@@ -1,0 +1,19 @@
+{
+  "name": "hazel-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Organic natural and dark syntax for Atom.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "material",
+    "hazel",
+    "dark",
+    "material design"
+  ],
+  "repository": "https://github.com/julynx/hazel-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
